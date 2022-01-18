@@ -1,34 +1,34 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Sports x Data",
+    subtitle: "Full Stack Project - Django, Python, HTML/CSS/JavaScript, JQuery, PostgreSQL, Heroku",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+      "Sports x Data - A Start up idea where we would provide digital tools and analytical services to rugby teams. Built the system for our 'Analysis' service (shown in gif), currently working on our 'GamePlan' service",
+    image: "./sxd_recording.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "New York 2019 AirBnb Data Analysis",
+    subtitle: "Data Analysis Project - Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+      "This analysis looked at New York Airbnb data from 2019 to come up with targeting ideas for AirBnb's marketing strategy. The data was extracted from Kaggle, and was broken down and analyzed with Python using the many useful libraries such as: pandas, numpy, and matplotlib",
+    image: "./airbnb_recording.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Forged Banknote Analysis",
+    subtitle: "Data Science Project - Python",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "This project looked to buil a system that could detect forged banknotes. The way I attempted to do this was by appropriate data pre-processing, and training using different clustering algorithms.",
+    image: "./forged_banknote_recording.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Lichess Data Analysis",
+    subtitle: "Data Analysis Project - Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./lichess_recording.gif",
     link: "https://reactbootcamp.com",
   },
 ];
@@ -51,10 +51,13 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Django",
+  "Python",
   "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "SQL",
+  "PostgreSQL",
+  "JQuery",
+  "HTML/CSS",
+  "Advanced Excel",
+  "Power BI"
 ];

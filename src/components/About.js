@@ -6,19 +6,20 @@ export default function About() {
           <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
             <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
               <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-                Hi, I'm Michael.
+                Hi, I'm Michael
+                <br></br>
                 <br className="hidden lg:inline-block" />I enjoy analyzing data and building web apps.
               </h1>
+              <br></br>
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+                I graduated in 2020 with a Bachelor of Science in Computer Science from The University of Auckland, and have
+                since then  worked on a Startup, and have completed various contract roles. 
               </p>
               <div className="flex justify-center">
                 <a
                   href="#contact"
                   className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-                  Work With Me
+                  Get in Contact
                 </a>
                 <a
                   href="#projects"
