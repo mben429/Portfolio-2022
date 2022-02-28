@@ -1,11 +1,11 @@
 export const projects = [
   {
     title: "Sports x Data",
-    subtitle: "Full Stack Project - Django, Python, HTML/CSS/JavaScript, JQuery, PostgreSQL, Heroku",
+    subtitle: "Web Application Project - Django, Python, HTML/CSS/JS, PostgreSQL",
     description:
       "Sports x Data - A Start up idea where we would provide digital tools and analytical services to rugby teams. Built the system for our 'Analysis' service (shown in gif), currently working on our 'GamePlan' service",
     image: "./sxd_recording.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://www.sportsxdatanz.com",
   },
   {
     title: "New York 2019 AirBnb Data Analysis",
@@ -24,36 +24,21 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Lichess Data Analysis",
-    subtitle: "Data Analysis Project - Python",
+    title: "Lichess Insights Generator",
+    subtitle: "Web Application Project - React, Flask, Python, HTML/CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./lichess_recording.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "Developed a simple web app that allowed Lichess.org online chess users to access interesting insights from their last 100 games. Data was retrived via the Lichess API.",
+    image: "./lichess-insights-generator.gif",
+    link: "https://lichess-insights.herokuapp.com/",
   },
 ];
 
 export const skills = [
-  "Django",
   "Python",
+  "Django",
+  "Flask",
   "JavaScript",
+  "React",
   "SQL",
   "PostgreSQL",
   "JQuery",

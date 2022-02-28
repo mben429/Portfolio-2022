@@ -13,14 +13,13 @@ export default function Projects() {
                 Projects I've worked on
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                In my spare time and during my time at University, I worked on a number of projects. 
-                The type of the project ranged from Data Analysis to Machine Learning to a basic Full Stack Web app.
+                In my spare time, and during my time at University, I worked on a number of projects using Web development, Data Analysis, and Machine Learning tools.
               </p>
             </div>
             <div className="flex flex-wrap -m-4">
               {projects.map((project) => (
                 <a
-                  href={project.link}
+                  href={project.link} target="_blank"
                   key={project.image}
                   className="sm:w-1/2 w-100 p-4">
                   <div className="flex relative">
