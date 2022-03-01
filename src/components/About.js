@@ -13,7 +13,7 @@ export default function About() {
               <br></br>
               <p className="mb-8 leading-relaxed">
                 I graduated in 2020 with a Bachelor of Science in Computer Science from The University of Auckland, and have
-                since then  worked on a Startup, and have completed various contract roles. 
+                since worked on a startup, and have completed various contract roles. 
               </p>
               <div className="flex justify-center">
                 <a
