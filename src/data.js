@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This analysis looked at New York Airbnb data from 2019 to come up with targeting ideas for AirBnb's marketing strategy. The data was extracted from Kaggle, and was broken down and analyzed with Python using the many useful libraries such as: pandas, numpy, and matplotlib",
     image: "./airbnb_recording.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/mben429/Data-Analytics/blob/master/AirBnb_Analysis/AirbnbAnalysis.ipynb",
   },
   {
     title: "Forged Banknote Analysis",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "This project looked to buil a system that could detect forged banknotes. The way I attempted to do this was by appropriate data pre-processing, and training using different clustering algorithms.",
     image: "./forged_banknote_recording.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/mben429/Data-Analytics/tree/master/BanknoteClusterAnalysis",
   },
   {
     title: "Lichess Insights Generator",
@@ -43,6 +43,6 @@ export const skills = [
   "PostgreSQL",
   "JQuery",
   "HTML/CSS",
-  "Advanced Excel",
+  "Advanced Excel (VBA)",
   "Power BI"
 ];

@@ -13,7 +13,7 @@ export default function Projects() {
                 Projects I've worked on
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                In my spare time, and during my time at University, I worked on a number of projects using Web development, Data Analysis, and Machine Learning tools.
+                Some projects that I've tinkered away at. You can clearly see what my hobbies are.
               </p>
             </div>
             <div className="flex flex-wrap -m-4">
