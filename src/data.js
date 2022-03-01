@@ -41,7 +41,8 @@ export const skills = [
   "React",
   "SQL",
   "PostgreSQL",
-  "JQuery",
+  "jQuery",
+  "Git",
   "HTML/CSS",
   "Advanced Excel (VBA)",
   "Power BI"
