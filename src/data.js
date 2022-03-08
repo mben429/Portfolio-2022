@@ -3,7 +3,7 @@ export const projects = [
     title: "Sports x Data - Digital Tools for Rugby Teams",
     subtitle: "Web Application Project - Django, Python, HTML/CSS/JS, PostgreSQL",
     description:
-      "Sports x Data - A Start up idea where we would provide digital tools and analytical services to rugby teams. Built the system for our 'Analysis' service (shown in gif), currently working on our 'GamePlan' service",
+      "Sports x Data - A Start up idea where we would provide digital tools and analytical services to rugby teams. Built the system for our 'Analysis' service (Login with Username: rosmini1stxv, and password: rc_55211 for a demo), currently working on our 'GamePlan' service",
     image: "./sxd_recording.gif",
     link: "https://www.sportsxdatanz.com",
   },
