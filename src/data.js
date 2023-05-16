@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Sports x Data - A Start up idea where we would provide digital tools and analytical services to rugby teams. Built the system for our 'Analysis' service (Login with Username: rosmini1stxv, and password: rc_55211 for a demo), currently working on our 'GamePlan' service",
     image: "./sxd_recording.gif",
-    link: "https://www.sportsxdatanz.com",
+    link: "https://sportsxdatanzapp.herokuapp.com/",
   },
   {
   title: "Lichess.org User Insights Generator",
@@ -34,16 +34,16 @@ export const projects = [
 ];
 
 export const skills = [
+  "SQL",
   "Python",
+  "BigQuery",
+  "Excel + VBA",
+  "Power BI + DAX",
+  "Google Sheets + Apps Script",
+  "HubSpot CRM",
   "Django",
   "Flask",
   "JavaScript",
   "React",
-  "SQL",
-  "PostgreSQL",
-  "jQuery",
-  "Git",
   "HTML/CSS",
-  "Advanced Excel (VBA)",
-  "Power BI"
 ];

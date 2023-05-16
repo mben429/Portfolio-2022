@@ -6,14 +6,14 @@ export default function About() {
           <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
             <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
               <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-                Hi, I'm Michael
+                Hi, I'm <text style={{ color: 'rgb(16, 185, 129)'}}>Michael Bennett</text>.
                 <br></br>
-                <br className="hidden lg:inline-block" />I enjoy analyzing data and building web apps.
+                <br className="hidden lg:inline-block" />Current <text style={{ color: 'rgb(16, 185, 129)'}}>Data Analyst</text> that enjoys analyzing data and building web apps<text style={{ color: 'rgb(16, 185, 129)'}}>.</text>
               </h1>
               <br></br>
               <p className="mb-8 leading-relaxed">
                 I graduated in 2020 with a Bachelor of Science in Computer Science from The University of Auckland, and have
-                since worked on a startup, and have completed various contract roles. 
+                since then worked on a startup, have completed various contract roles, and am currently working as a Full-time Data Analyst.
               </p>
               <div className="flex justify-center">
                 <a
